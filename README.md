@@ -13,4 +13,4 @@ It is a demonstration for the following:
 
 The Application can also be viewed online at 
 
-http://olivarezmaps.eu.org/
+http://olivarezmaps.eu.org/maps
